@@ -1,0 +1,20 @@
+ 
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 30px 50px;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #686767;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: 10px;
+}
+ 
+ 
+
+ 
+ 
+

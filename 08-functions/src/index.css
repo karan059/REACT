@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+   
+}
+
+
+input{
+  font: bold;
+  
+  margin: 5px;
+  padding: 5px;
+}
+.box{ 
+  margin: auto;
+  margin-top: 30px;
+  width: 500px;
+  height: 270px;
+  border: 5px solid rgb(58, 54, 54);
+}
+.page1{
+  height: 500px;
+  width: 1000px;
+  background-color: rgb(74, 174, 174);
+  
+}
+.page2{
+  height: 500px;
+  width: 1000px;
+  background-color: rgb(9, 43, 43);
+  
+}
+.page3{
+  height: 500px;
+  width: 1000px;
+  background-color: rgb(222, 176, 23);
+  
+}

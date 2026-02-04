@@ -1,0 +1,10 @@
+ h1{
+  border: 2px solid blue;
+ }
+ button{
+  font-size: larger;
+  text-decoration: black;
+  font-weight: bold;
+  background: #808088;
+  cursor: pointer;
+ }

@@ -1,0 +1,24 @@
+ *{
+  background-color: rgb(46, 48, 47);
+  margin: 0;
+  padding: 0;
+ }
+ input, button{
+  margin: 15px;  
+  padding: 3px;
+  border-radius: 5pxl;
+  font-size: xx-large;
+  color: aquamarine;
+  
+  display: block;
+  
+
+ }
+ button{
+  margin-left: 305px;
+ }
+ button:hover{
+  background: #271f1f;
+  color: white;
+  
+ }
