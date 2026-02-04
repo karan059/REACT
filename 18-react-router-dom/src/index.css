@@ -1,0 +1,36 @@
+
+*{
+margin: 0;
+padding: 0;
+color: white;
+ 
+font-weight: bolder;
+ 
+
+}html,body{
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: aliceblue;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform:translate(-50%,-50%);
+ font-size: 50px;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  height: 150px;
+  background-color: rgb(69, 212, 212);
+  padding: 20px 40px;
+  font-size: larger;
+}
+.nav div{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
