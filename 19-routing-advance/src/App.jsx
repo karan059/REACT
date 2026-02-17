@@ -11,6 +11,8 @@ import Men from './pages/Men';
 import Women from './pages/Women';
 import Kids from './pages/Kids';
 import ContactUsPage from './pages/ContactUsPage';
+  
+
  
  
  const App = () => {

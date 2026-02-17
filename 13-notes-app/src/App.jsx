@@ -101,7 +101,7 @@ const App = () => {
 
 
               <h3 className='leading-tight mt-2 p-2  overflow-x-hidden text-xl font-bold'>{elem.title}</h3>
-              <p className='m-2  leading-tight font-medium overflow-visible text-gray-700 ' > {elem.details}</p>
+              <p className='m-2  leading-tight font-medium wrap-break-word  text-gray-700 ' > {elem.details}</p>
             </div>
           })}
 
